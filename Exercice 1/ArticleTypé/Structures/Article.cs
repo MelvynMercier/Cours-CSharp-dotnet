@@ -29,6 +29,7 @@ namespace ArticleTypé.Structures
             Console.WriteLine("Nom: " + this.Nom);
             Console.WriteLine("Prix: " + this.Prix);
             Console.WriteLine("Quantité: " + this.Quantite);
+            Console.WriteLine("Type: " + this.TypeType);
         }
 
         public void Ajouter(int Integer)

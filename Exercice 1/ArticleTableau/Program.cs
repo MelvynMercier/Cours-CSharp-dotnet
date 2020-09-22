@@ -9,6 +9,7 @@ namespace ArticleTableau
         static void Main(string[] args)
         {
             var listArticle = new List<Article>();
+            
             listArticle.Add(new Article("Chemise", 15, 1, Structures.Type.Habillement));
             listArticle.Add(new Article("JetSki", 15000, 6, Structures.Type.Loisir));
             listArticle.Add(new Article("Bateau", 51000, 6, Structures.Type.Loisir));
