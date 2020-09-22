@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Exercice_1.Structures;
+using System;
 
 namespace Exercice_1
 {
@@ -6,7 +7,7 @@ namespace Exercice_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Exercice.ExerciceARTICLE();
         }
     }
 }
